@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 python中的基本数据类型：
 整数：数据运算永远精确
 浮点数：四舍五入可能会产生误差
@@ -22,3 +23,7 @@ list（）：根据传入的参数创建一个新的list列表
 
 
 
+=======
+# myPython
+something about learn python
+>>>>>>> bc1ffe44b1b758621766375b2a776e7bde1cdf02
