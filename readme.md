@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> dbd25862c61294264d5cfd2238ede1412ad42048
 =======
 # myPython
 something about learn python
